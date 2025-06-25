@@ -1,7 +1,7 @@
 {
   "name": "my-njoya",
   "version": "0.1.0",
-  "homepage": "https://noumek4.github.io/my-njoya-link/my-njoya",
+  "homepage": "https://noumek4.github.io/my-njoya-link",
   "description": "A personal website to showcase my projects and skills.",
   "private": true,
   "dependencies": {
